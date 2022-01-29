@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = asvalenciareynoso@gmail.com
+	name = Sebastian Valencia
